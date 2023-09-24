@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello world! 
 
-<!--
-**molodora/molodora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Alina Malofeeva 😉
+Data Scientist with a deep passion for programming and mathematics. Skilled in data preprocessing, visualization and model development.
+I have a background in science and practical experience in processing real observational data for astronomical research 🔭✨.
+I aspire to contribute to real-world projects that bring value to both business and society.
 
-Here are some ideas to get you started:
+## Skills
+python, pandas, numpy, scipy, sklearn, pytorch, gradient boosting, SQL, matplotlib, seaborn, Docker ... *(to be continued)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+[![codewars](https://www.codewars.com/users/molodora/badges/large)](https://www.codewars.com/users/molodora)
+
