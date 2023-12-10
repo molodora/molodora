@@ -6,7 +6,7 @@ I have a background in science and practical experience in processing real obser
 I aspire to contribute to real-world projects that bring value to both business and society.
 
 ## Skills
-python, pandas, numpy, scipy, sklearn, pytorch, gradient boosting, SQL, matplotlib, seaborn, Docker ... *(to be continued)*
+python, pandas, numpy, scipy, sklearn, pytorch, gradient boosting, SQL, matplotlib, seaborn, Docker, Fast API, uvicorn, aiogram ... *(to be continued)*
 
 ---
 
